@@ -1,5 +1,5 @@
 {
-    "name": "build/wp-plugin",
+    "name": "plugins/static-builder",
     "type": "wordpress-plugin",
     "authors": [
         {
